@@ -1,0 +1,13 @@
+C:\Users\hilys\source\repos\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.exe
+C:\Users\hilys\source\repos\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.deps.json
+C:\Users\hilys\source\repos\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.runtimeconfig.json
+C:\Users\hilys\source\repos\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.runtimeconfig.dev.json
+C:\Users\hilys\source\repos\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.dll
+C:\Users\hilys\source\repos\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.pdb
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.csprojAssemblyReference.cache
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.AssemblyInfoInputs.cache
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.AssemblyInfo.cs
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.csproj.CoreCompileInputs.cache
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.dll
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.pdb
+C:\Users\hilys\source\repos\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.genruntimeconfig.cache
